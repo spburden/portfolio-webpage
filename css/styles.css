@@ -1,14 +1,34 @@
 body {
-  padding-top: 50px;
+  padding-top: 60px;
 }
 
-nav{
-  font-size: 20px;
+nav {
+  font-family: lobster, Georgia;
   background-color: black;
 }
 
-nav a{
-  font-size: 20px;
+h2 {
+  font-family: Georgia;
+}
+
+h3{
+  font-family: Georgia;
+}
+
+nav a {
+  font-size: 25px;
+}
+
+h4 {
+  text-decoration: underline;
+}
+
+#aboutme {
+  font-family: serif;
+}
+
+.navbar-brand {
+  font-size: 25px;
 }
 
 img {
@@ -16,10 +36,19 @@ img {
   max-height:100%;
 }
 
-#face {
+.face {
   border-radius: 50%;
 }
 
+ul {
+  list-style-type: circle;
+}
+
+ol {
+  float: right;
+  font-family: "Trebuchet MS";
+  font-size: 16px;
+}
 
 div #portfolio {
   border: 2px solid white;
