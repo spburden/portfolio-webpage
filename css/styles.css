@@ -21,12 +21,22 @@ img {
 }
 
 
-#portfolio div{
+div #portfolio {
   border: 2px solid white;
   border-radius: 5px;
 }
 
-#portfolio2 div{
+div #portfolio2 {
   border: 2px solid white;
   border-radius: 5px;
+}
+
+#portfolio li {
+  padding-top: 10px;
+  font-size: 16px;
+}
+
+#portfolio2 li {
+  padding-top: 10px;
+  font-size: 16px;
 }
