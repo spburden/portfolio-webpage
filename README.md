@@ -25,4 +25,6 @@ _spburden@hotmail.com_
 * Bootstrap
 
 ### License
+The MIT License (MIT)
+
 Copyright (c) 2016 **_Stephen Burden_**
