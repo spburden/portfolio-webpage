@@ -20,9 +20,9 @@ N/A
 _spburden@hotmail.com_
 
 ## Technologies Used
-HTML
-CSS
-Bootstrap
+* HTML
+* CSS
+* Bootstrap
 
 ### License
 Copyright (c) 2016 **_Stephen Burden_**
