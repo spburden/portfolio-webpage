@@ -24,18 +24,9 @@ img {
 #portfolio div{
   border: 2px solid white;
   border-radius: 5px;
-  -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
 }
 
 #portfolio2 div{
   border: 2px solid white;
   border-radius: 5px;
 }
-
-
-
-
-background: url(img/.jpg)
-unsplash.com
