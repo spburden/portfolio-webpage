@@ -1,10 +1,15 @@
 body {
   padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 nav {
   font-family: lobster, Georgia;
   background-color: black;
+}
+
+.btn {
+    font-family: lobster, Georgia;
 }
 
 h2 {
@@ -45,19 +50,30 @@ ul {
 }
 
 ol {
+  font-weight: bold;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 20px;
+  padding-left: 56px;
   float: right;
   font-family: "Trebuchet MS";
   font-size: 16px;
 }
 
+ol li:not(:last-child) {
+  margin-bottom: 5px;
+}
+
 div #portfolio {
   border: 2px solid white;
   border-radius: 5px;
+  font-family: "Lucida Console", monospace;
 }
 
 div #portfolio2 {
   border: 2px solid white;
   border-radius: 5px;
+  font-family: "Lucida Console", monospace;
 }
 
 #portfolio li {
@@ -68,4 +84,8 @@ div #portfolio2 {
 #portfolio2 li {
   padding-top: 10px;
   font-size: 16px;
+}
+
+.contact {
+  text-align: center;
 }
